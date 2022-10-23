@@ -30,23 +30,20 @@ The following versions of libraries were implemented to conduct the project:
 I have found some main findings and a few recommendations to make a track publiced on Spotify popular as followed:
 
 **Question 1: What are the most popular artists and tracks on Spotify over the course of our dataset?**
--)Most prolific artists are of all time best-known composers of classical music.
--)Daddy Yankee- a hit-after-hit artist is the only one who gets the perfect 100 score with his song 'Con Calma' collaborated with Canadian rapper Snow. The song has surpassed 2 billion views on Youtube by 2020.
--) 
+- Most prolific artists are of all time best-known composers of classical music.
+- Daddy Yankee- a hit-after-hit artist is the only one who gets the perfect 100 score with his song 'Con Calma' collaborated with Canadian rapper Snow. The song has surpassed 2 billion views on Youtube by 2020.
+- Billie Eilish has 11 records which is the highest number of songs in the top 100 most popular tracks. Post Malone, Ariana Grande and Khalid come second with 4 tracks each.
+
 **Question 2: What kinds of properties are associated with songs that have higher popularity ratings?**
--) C Minor, C Major and G Major dominate other keys to be the most used musical keys due to convenience and ease to play on piano and guitar.
+- C Minor, C Major and G Major dominate other keys to be the most used musical keys due to convenience and ease to play on piano and guitar.
+- Musicians can have a higher chance to make hits on Spotify by composing more energetic, positive and more danceable musical pieces. Generally, higher energy and lower songs out perform low energy and quieter songs.
+- Tracks have higher likelihood to be popular if they offer audiences more compelling vocals and ignite the fresh, cheerful and positive feelings in audiences.
+- Live performance are less prefered compared to recorded audios when it comes to taste of Spotify customers.
+- On average, shorter duration of tracks are expected to give them a higher score of popularity.
 
-(3) Musicians can have a higher chance to make hits on Spotify by composing more energetic, positive and more danceable musical pieces. Generally, higher energy and lower songs out perform low energy and quieter songs.
-
-(4) Tracks have higher likelihood to be popular if they offer audiences more compelling vocals and ignite the fresh, cheerful and positive feelings in audiences.
-
-(5) Live performance are less prefered compared to recorded audios when it comes to taste of Spotify customers.
-
-(6) On average, shorter duration of tracks are expected to give them a higher score of popularity.
-
-(7) Generally, higher energy and louder tracks have a higher chance to become popular on Spotify than lower energy and quieter tracks.
-
-(8) Using electonic instruments like electric guitars and keyboards can improve the chance of success for musicians once they release their songs on Spotify platform.
+**Question 3: Are there any relationships between track's features themself and their popularity?**
+- Generally, higher energy and louder tracks have a higher chance to become popular on Spotify than lower energy and quieter tracks.
+- Using electonic instruments like electric guitars and keyboards can improve the chance of success for musicians once they release their songs on Spotify platform.
 
 Regards to the limitations of this project, as this was only an exploratory analysis, these findings do not imply any statistical conclusions. The data should be further inspected with proper statistical test in order to drive more potential correlations.
 
