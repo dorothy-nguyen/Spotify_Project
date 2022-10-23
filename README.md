@@ -4,7 +4,7 @@ This project corresponds to data exploratory project within VEF Academy course f
 
 ## 1. Dataset
 
-> In this Jupyter Notebook, I investigate the dataset which includes audio features of more than 130,000 Spotify tracks retrieved from Kaggle latest updated by April 2019. Dataset is downloaded from Kaggle which originally used the Spotify API to request and pull data. The dataset consists information of artist_names, track_ids, track_names, track's features themself and their popularities specified in this [Spotify API documentation](https://developer.spotify.com/documentation/web-api/reference/#/).
+> In this Jupyter Notebook, I investigate the dataset which includes audio features of more than 130,000 Spotify tracks retrieved from Kaggle latest updated by April 2019. Dataset is downloaded from Kaggle which originally used the Spotify API to request and pull data. The dataset consists information of artist_names, track_ids, track_names, track's features themself and their popularities specified in this [wrange-report-data-overview](https://github.com/dorothy-nguyen/Spotify_Project/blob/main/Spotify_Project.ipynb).
 
 > With Statistics by Spotify as of Sep 2021, it is currently the world's leading audio streaming subscription service with 381 millions MAUs (montly active users) which offers us a platform of more than 73 millions pieces of tracks and podcasts.
 
