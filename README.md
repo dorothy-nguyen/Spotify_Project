@@ -12,7 +12,9 @@ This project corresponds to data exploratory project within VEF Academy course f
 
 > Over the course of this analysis, I will explore and visualize the data using Python libraries Pandas, Numpy and Matplotlib in order to answer three main research questions:
 > > **1. What are the most popular artists and tracks on Spotify over the course of our dataset?**
+
 > > **2. What kinds of properties are associated with songs that have higher popularity ratings?**
+
 > > **3. Are there any relationships between track's features themself and their popularity?**
 
 > Answers to those questions can benefit both Spotify and its customers to get a better understanding of the most significant patterns and trends in the music industry.
@@ -28,8 +30,8 @@ The following versions of libraries were implemented to conduct the project:
 I have found some main findings and a few recommendations to make a track publiced on Spotify popular as followed:
 
 **Question 1: What are the most popular artists and tracks on Spotify over the course of our dataset?**
--) Most prolific artists are of all time best-known composers of classical music.
--) Daddy Yankee- a hit-after-hit artist is the only one who gets the perfect 100 score with his song 'Con Calma' collaborated with Canadian rapper Snow. The song has surpassed 2 billion views on Youtube by 2020.
+-)Most prolific artists are of all time best-known composers of classical music.
+-)Daddy Yankee- a hit-after-hit artist is the only one who gets the perfect 100 score with his song 'Con Calma' collaborated with Canadian rapper Snow. The song has surpassed 2 billion views on Youtube by 2020.
 -) 
 **Question 2: What kinds of properties are associated with songs that have higher popularity ratings?**
 -) C Minor, C Major and G Major dominate other keys to be the most used musical keys due to convenience and ease to play on piano and guitar.
