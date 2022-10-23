@@ -47,4 +47,4 @@ I have found some main findings and a few recommendations to make a track public
 
 Regards to the limitations of this project, as this was only an exploratory analysis, these findings do not imply any statistical conclusions. The data should be further inspected with proper statistical test in order to drive more potential correlations.
 
-**Check out the full report of my analyzation and presentation for charts and viz via [`Spotify_presentation`](https://github.com/dorothy-nguyen/Spotify_Project/blob/main/Spotify_presentation.pptx.)**
+**Check out the full report of my analyzation and presentation for charts and viz via [`Spotify_presentation`](https://github.com/dorothy-nguyen/Spotify_Project/blob/main/Spotify_presentation.pptx))**
