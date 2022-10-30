@@ -1,6 +1,5 @@
 # Spotify Audio Feature Exploration
 ## by Dorothy Nguyen
-This project corresponds to data exploratory project within VEF Academy course for Data Analyst.
 
 ## 1. Dataset
 
